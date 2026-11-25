@@ -89,6 +89,7 @@ The script reads an image named `maduro1.jpeg` from the same folder. Add a tomat
 
   ## Video
 
+- https://youtube.com/shorts/BOB6AeoDycI?feature=share
 ## Author
 
 - João Pedro Bandeira Raposo
