@@ -87,7 +87,6 @@ The script reads an image named `maduro1.jpeg` from the same folder. Add a tomat
 - Classification relies on fixed HSV thresholds, so it works best with good, uniform lighting and evenly colored fruit.
 - The servo is driven by software PWM (`softPwm`), which can cause small position jitter.
 
-## Authors
+## Author
 
-- Flávia Naomi Honda Nagata
 - João Pedro Bandeira Raposo
